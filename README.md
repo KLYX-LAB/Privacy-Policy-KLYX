@@ -6,7 +6,7 @@ Este repositorio contiene la política de privacidad oficial del proyecto KLYX.
 
 La política está publicada mediante **GitHub Pages** y es accesible en:
 
-
+https://klyx-lab.github.io/privacy-policy-klyx/
 
 ## 📌 Uso
 
